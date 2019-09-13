@@ -1,4 +1,4 @@
-# BUAN6357 - Shiny Assignment 2
+# BUAN6357 - Shiny Project
 # Adityan Rajendran - AXR180073
 
 # Install packages, only if it is not installed
